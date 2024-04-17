@@ -1,0 +1,2 @@
+If I train the model multiple times, why is the Training and Testing accuracy EXACT same all the time ? 
+- Shouldn't it differ at least slightly because different data randomly from the sample is being used for training and testing ? 
